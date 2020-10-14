@@ -1,5 +1,5 @@
 # Foundations-of-Computer-Science-1
-All my code from CS 1 and CS  1 Lab 
+All my code from CS 1 and CS  1 Lab. 
 All of the code in this repository is extremely simple. Below I have a summary of what each prog and Lab assignment does. 
 Each program has a more deatailed description within it that's commented out at the top.
 
